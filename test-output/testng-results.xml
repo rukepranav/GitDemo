@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="218" started-at="2020-02-10T09:46:51 IST" finished-at="2020-02-10T09:46:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="218" started-at="2020-02-10T09:46:51 IST" finished-at="2020-02-10T09:46:51 IST">
+      <class name="rukepranav.APITest">
+        <test-method status="PASS" signature="addtwit()[pri:0, instance:rukepranav.APITest@2d8f65a4]" name="addtwit" duration-ms="35" started-at="2020-02-10T09:46:51 IST" finished-at="2020-02-10T09:46:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtwit -->
+        <test-method status="PASS" signature="twitterdel()[pri:0, instance:rukepranav.APITest@2d8f65a4]" name="twitterdel" duration-ms="6" started-at="2020-02-10T09:46:51 IST" finished-at="2020-02-10T09:46:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitterdel -->
+      </class> <!-- rukepranav.APITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
